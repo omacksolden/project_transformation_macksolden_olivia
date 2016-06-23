@@ -12,8 +12,10 @@
     "color-no-invalid-hex": true,
     "comment-empty-line-before": "always",
     "comment-whitespace-inside": "always",
-    "declaration-block-no-duplicate-properties": true;
-    "declaration-block-semicolon-newline-after": "always-multi-line",
+    "declaration-block-trailing-semicolon": "always",
+    "declaration-block-no-shorthand-property-overrides": true,
+    "declaration-block-no-duplicate-properties": true,
+    "declaration-block-semicolon-newline-after": true,
     "declaration-block-semicolon-space-after": "always-single-line",
     "declaration-block-semicolon-space-before": "never",
     "declaration-colon-space-after": "always",
@@ -39,14 +41,10 @@
     "no-missing-eof-newline": true,
     "number-leading-zero": "always",
     "number-no-trailing-zeros": true,
-    "number-zero-length-no-unit": true,
     "property-no-vendor-prefix": true,
-    "rule-no-shorthand-property-overrides": true,
     "rule-non-nested-empty-line-before": "always",
-    "rule-trailing-semicolon": "always",
     "selector-combinator-space-after": "always",
     "selector-combinator-space-before": "always",
-    "selector-list-comma-newline-after": "always",
     "selector-pseudo-element-colon-notation": "double",
     "value-list-comma-space-after": "always"
   }
