@@ -54,7 +54,6 @@ a {
 }
 
 #header {
-    width: 1000px;
     height: 150px;
     margin: 0 auto;
     padding: 0px 0px;
@@ -155,7 +154,6 @@ a {
 
 #menu {
     float: right;
-    width: 500px;
     height: 90px;
     margin: 0 auto;
     padding: 0;
@@ -199,7 +197,6 @@ a {
 /* Page */
 
 #page {
-    width: 1000px;
     margin: 0 auto;
     padding: 30px 0px;
 }
@@ -433,45 +430,9 @@ a {
     color: #5e5e5e;
 }
 
-#marketing {
-    overflow: hidden;
-    margin-bottom: 30px;
-    padding: 20px 0px 10px 0px;
-    border-top: 1px solid #e7ebed;
-    border-bottom: 1px solid #e7ebed;
-}
-
-#marketing .text1 {
-    float: left;
-    margin: 0px;
-    padding: 0px;
-    letter-spacing: -2px;
-    text-transform: lowercase;
-    font-size: 34px;
-    color: #345e9b;
-}
-
-#marketing .text2 {
-    float: right;
-}
-
-#marketing .text2 a {
-    display: block;
-    width: 252px;
-    height: 38px;
-    padding: 15px 0px 0px 0px;
-    background: url("../img/img07.jpg") no-repeat left top;
-    letter-spacing: -2px;
-    text-align: center;
-    text-transform: lowercase;
-    font-size: 30px;
-    color: #ffffff;
-}
-
 #banner {
     margin: 0px auto;
     height: 340px;
-    background: url("../img/img03.png") no-repeat left bottom;
 }
 
 #banner img {
