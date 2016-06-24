@@ -328,19 +328,19 @@ a {
     padding: 0;
 }
 
-#sidebar li ul {
+#sidebar section ul {
     margin: 0px 0px;
     padding-bottom: 30px;
 }
 
-#sidebar li li {
+#sidebar section li {
     line-height: 40px;
     border-bottom: 1px solid #e7ebed;
     margin: 0px 0px;
     border-left: none;
 }
 
-#sidebar li li span {
+#sidebar section li span {
     display: block;
     margin-top: -20px;
     padding: 0;
@@ -348,12 +348,12 @@ a {
     font-style: italic;
 }
 
-#sidebar li li a {
+#sidebar section li a {
     padding: 0px 0px 0px 20px;
     background: url("../img/img04.jpg") no-repeat left 50%;
 }
 
-#sidebar h2 {
+#sidebar h3 {
     height: 38px;
     padding: 0px 0px 30px 0px;
     letter-spacing: -0.5px;
