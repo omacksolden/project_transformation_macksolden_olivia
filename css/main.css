@@ -12,6 +12,17 @@ html {
     max-width: 1200px;
 }
 
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -179,7 +190,7 @@ a {
     display: block;
     line-height: px;
     margin-right: 1px;
-    padding: 0 0.9em 0 0.9em;
+    padding: 0.9em 1em;
     text-decoration: none;
     text-align: center;
     text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.2);
