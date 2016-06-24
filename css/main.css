@@ -55,15 +55,17 @@ a {
     background: #ffffff url("../img/img05.jpg") repeat;
 }
 
+.group::after {
+    content: '';
+    clear: both;
+    display: block;
+}
+
 
 /* Header */
 
-/*#header-wrapper {
-    overflow: hidden;
-}*/
 
 #header {
-    /*height: 150px;*/
     margin: 0 auto;
     padding: 0px 0px;
 }
